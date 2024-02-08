@@ -9,3 +9,5 @@ echo today date is $DATE
 
 ADD=$((2+3+4))
 echo addition of 2+3+4 is $ADD
+
+echo value of x = $x
