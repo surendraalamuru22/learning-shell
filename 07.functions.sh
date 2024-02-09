@@ -4,7 +4,7 @@ function SAMPLE() {
   echo a in funtion after override in function - $a
   b=10
   echo first argument to script = $1
-
+  return 100
   echo SAMPLE FUNCTION
 }
 
@@ -17,6 +17,7 @@ SAMPLE1() {
 # main program
 
 SAMPLE angel
+echo RETURN STATUS = $?
 #SAMPLE1
 
 a=100
