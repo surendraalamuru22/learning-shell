@@ -11,7 +11,7 @@ SAMPLE1() {
 }
 
 
-# main programm
+# main program
 
 SAMPLE
 SAMPLE1
