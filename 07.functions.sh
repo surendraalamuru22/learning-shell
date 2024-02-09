@@ -9,7 +9,7 @@ SAMPLE1() {
 }
 
 
-# main program
+# main programm
 
 SAMPLE
 SAMPLE1
