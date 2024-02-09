@@ -18,3 +18,10 @@ if [ $a -gt 9 ]; then
   else
     echo $a is lessthan 9
 fi
+
+x="abc"
+
+if [ $x == "abc" ]; then
+  echo yes both are equal
+  fi
+
