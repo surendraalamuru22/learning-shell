@@ -1,5 +1,5 @@
 function SAMPLE() {
-  echo a from main program =$a
+  echo a from main program = $a
   b=10
 
   echo SAMPLE FUNCTION
