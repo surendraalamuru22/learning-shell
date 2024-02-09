@@ -15,6 +15,7 @@ SAMPLE1() {
 
 SAMPLE
 SAMPLE1
+
 a=10
 echo b from function = $b
 
