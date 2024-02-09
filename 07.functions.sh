@@ -16,6 +16,6 @@ SAMPLE1() {
 SAMPLE
 SAMPLE1
 
-a=10
+a=100
 echo b from function = $b
 
