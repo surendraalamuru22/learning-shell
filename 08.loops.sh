@@ -1,6 +1,6 @@
-a=10
+a=1
 
-while [ $a -gt 0 ]; do
+while [ $a -lt 10 ]; do
   echo hello - $a
-  a=$(($a-1))
+  a=$(($a+1))
 done
