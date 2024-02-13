@@ -22,7 +22,7 @@ done
 a=10
 
 while [ $a -gt 0 ]; do
-  if [ $a == 5]; then
+  if [ $a == 5] ; then
     break
     fi
   echo hello - $a
