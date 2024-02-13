@@ -37,3 +37,5 @@ for a in 1 2 3 4 5 6 7 8 9 ; do
       echo $a
       sleep 1
 done
+
+#https://www.geeksforgeeks.org/looping-statements-shell-script/
